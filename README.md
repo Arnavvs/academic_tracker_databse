@@ -9,7 +9,7 @@ This project is a comprehensive **academic performance tracking system** built i
 ## 📁 Files Included
 
 - `schema.sql`: Contains table definitions, constraints, and all SQL views.
-- `q1.sql`: Inserts comprehensive sample data for 20 students, 5 subjects, and 3 semesters, including grades and attendance records.
+- `data_insertion.sql`: Inserts comprehensive sample data for 20 students, 5 subjects, and 3 semesters, including grades and attendance records.
 - `queries.sql`: Provides various SQL queries for data verification, utilizing views, and demonstrating complex features.
 - `README.md`: This documentation.
 
